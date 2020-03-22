@@ -12,3 +12,5 @@ Data source: https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=329&Mid=A111
 終止合約或歇業日期: closingDate  
 固定看診時段: consultingHours  
 備註: note
+
+網站連結：https://soselab401.github.io/pharmacy/
